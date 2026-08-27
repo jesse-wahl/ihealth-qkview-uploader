@@ -1,0 +1,13 @@
+{
+  "rawCurlCommand": "",
+  "clientAccessKey": "",
+  "clientId": "",
+  "clientSecret": "",
+  "tokenEndpoint": "https://identity.account.f5.com/oauth2/v1/token",
+  "uploadEndpoint": "https://ihealth2-api.f5.com/qkview-analyzer/api/qkviews",
+  "baseDirectory": "Z:\\",
+  "fallbackUncDirectory": "\\\\network-share\\shares\\cases",
+  "incomingSubdir": "INCOMING",
+  "visibleInGui": "True",
+  "userAgent": "F5-iHealth-Uploader/1.0"
+}
